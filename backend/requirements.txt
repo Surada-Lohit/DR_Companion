@@ -9,3 +9,4 @@ groq>=0.13
 firebase-admin>=6.5
 reportlab>=4.2
 python-dotenv>=1.0
+gunicorn
